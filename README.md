@@ -8,3 +8,9 @@ This is a web application for an italian restaurant. People can browser their fa
 
 As you can see the two folders in the repository, one is front-end files which is implemented by React and redux, another one is back-end server folder which includes all files in using nodeJs and mongoDB.
 
+## Screenshots
+
+<img src="Snapshot/1.png">
+<img src="Snapshot/2.png">
+<img src="Snapshot/3.png">
+<img src="Snapshot/4.png">
