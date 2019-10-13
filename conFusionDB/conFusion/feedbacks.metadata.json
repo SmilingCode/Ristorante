@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"conFusion.feedbacks"}],"uuid":"5efbe98d650842fca4fc04d84fa1b45a"}
